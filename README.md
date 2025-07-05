@@ -8,8 +8,11 @@ Este repositorio contiene el código, notebooks y utilidades para comparar y ana
 - `models/`: Definiciones de arquitecturas y notebooks de entrenamiento de modelos en PyTorch.
 - `data/stanford_cars/`: Dataset y etiquetas en CSV (train, val, test, names.csv).
 - `utils_dataset.py`, `data_loader.py`: Utilidades para cargar datasets y DataLoaders personalizados.
-- `prueba.ipynb`: Entrenamiento y pruebas rápidas de la CNN propia.
 - `pesos/`: Pesos entrenados de los modelos (por ejemplo, `resnet18_best.pth`, `simplecnn_best.pth`).
+
+> ⚠️ **Advertencia**: El archivo `alexnet_best.pth` no se encuentra en este repositorio debido a su tamaño (>100MB). Podés descargarlo desde el siguiente enlace:
+> [Descargar alexnet_best.pth desde Google Drive](https://drive.google.com/file/d/1RV7O_fTFipfeuBUIZL8tSvFY8MWfcHFU/view?usp=sharing)
+
 
 ## ¿Qué incluye?
 
