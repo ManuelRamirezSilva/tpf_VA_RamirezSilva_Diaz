@@ -11,7 +11,7 @@ Este repositorio contiene el código, notebooks y utilidades para comparar y ana
 - `pesos/`: Pesos entrenados de los modelos (por ejemplo, `resnet18_best.pth`, `simplecnn_best.pth`).
 
 > ⚠️ **Advertencia**: El archivo `alexnet_best.pth` no se encuentra en este repositorio debido a su tamaño (>100MB). Podés descargarlo desde el siguiente enlace:
-> [Descargar alexnet_best.pth desde Google Drive](https://drive.google.com/file/d/1RV7O_fTFipfeuBUIZL8tSvFY8MWfcHFU/view?usp=sharing)
+> [Descargar alexnet_best.pth desde Google Drive](https://drive.google.com/file/d/1RV7O_fTFipfeuBUIZL8tSvFY8MWfcHFU/view?usp=sharing). Tambien deberian guardarlo en la carpeta `pesos/` con los otros pesos.
 
 
 ## ¿Qué incluye?
